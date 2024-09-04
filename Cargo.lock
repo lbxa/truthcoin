@@ -265,8 +265,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "truth-coin"
-version = "0.1.0"
+name = "truthcoin"
+version = "1.0.0"
 dependencies = [
  "chrono",
  "rand",
